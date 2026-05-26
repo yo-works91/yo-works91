@@ -1,14 +1,4 @@
-<div align="center">
 
-# 👋 こんにちは、Yutaro です (yo-works91)
-
-### Web Engineer | プロジェクト管理経験・PM 志向
-
-> 開発の実装力とプロジェクト管理経験を活かして、エンジニアリングとビジネスをつなぐ役割を目指しています
-
-</div>
-
----
 
 ## 🙋‍♂️ About Me
 
@@ -17,7 +7,7 @@
 技術力をベースに、プロダクト開発・マネジメント方向へのキャリアを志向しており、  
 個人開発では AI / LLM を活用したプロダクト開発に取り組んでいます。
 
----
+
 
 ## 🔧 What I Do
 
@@ -40,7 +30,7 @@
   </tr>
 </table>
 
----
+
 
 ## 💼 Career
 
@@ -49,7 +39,7 @@
 | 2025/10 〜 | [Vega Corporation](https://www.vega-c.com/) | Backend Engineer |
 | 2022/04 〜 2025/09 | [Systena Corp.](https://www.systena.co.jp/) | FullStack Engineer → **Project Manager** |
 
----
+
 
 ## 💻 Tech Stack
 
@@ -86,7 +76,7 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -127,7 +117,7 @@
   </tr>
 </table>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -141,7 +131,7 @@
 
 </div>
 
----
+
 
 ## 🎯 現在の関心
 
